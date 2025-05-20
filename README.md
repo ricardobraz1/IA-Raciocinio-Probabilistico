@@ -1,4 +1,4 @@
-# TP2 - Raciocínio Probabilistico
+# 2o Trabalho - Raciocínio Probabilistico
 
 - **Disciplina**: Inteligência Artificial IEC034 - 2025/1
 - **Curso**: Engenharia da Computação - Turmas CO01 
