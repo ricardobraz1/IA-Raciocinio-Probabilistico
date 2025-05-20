@@ -3,7 +3,7 @@
 - **Disciplina**: Inteligência Artificial IEC034 - 2025/1
 - **Curso**: Engenharia da Computação - Turmas CO01 
 
-- **Aluno**:  Ricardo Mendonça Braz
+- **Aluno**:  Ricardo Mendonça Braz - 22152017
 
 ### Variáveis
 
