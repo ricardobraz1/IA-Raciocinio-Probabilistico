@@ -3,12 +3,7 @@
 - **Disciplina**: Inteligência Artificial IEC034 - 2025/1
 - **Curso**: Engenharia da Computação - Turmas CO01 
 
-- **Aluno**:  Antonio Mileysson França Bragança - 21850963
-
----
-## Descrição
-
-Este trabalho  utiliza uma rede probabilística para modelar a probabilidade de uma lâmpada funcionar corretamente (voltagem) em um sistema de dínamo com base em várias variáveis. A solução considera probabilidades independentes e condicionais para as variáveis que afetam o funcionamento da lâmpada, como o estado da rua, o desgaste do volante do dínamo, o estado do cabo e da lâmpada, e a voltagem gerada pelo dínamo.
+- **Aluno**:  Ricardo Mendonça Braz
 
 ### Variáveis
 
