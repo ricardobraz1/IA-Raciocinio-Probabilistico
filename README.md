@@ -1,7 +1,7 @@
 # 2o Trabalho - Raciocínio Probabilistico
 
-- **Disciplina**: Inteligência Artificial IEC034 - 2025/1
-- **Curso**: Engenharia da Computação - Turmas CO01 
+- **Disciplina**: Inteligência Artificial
+- **Curso**: Engenharia da Computação
 
 - **Aluno**:  Ricardo Mendonça Braz
 
